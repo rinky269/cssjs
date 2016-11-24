@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://khanhtextseo.blogspot.com';
+	var url_popup = 'http://bit.ly/2fVjUvE';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
